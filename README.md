@@ -26,7 +26,7 @@ This is a simple digital clock application built using HTML, CSS, and JavaScript
 
 1. **Clone the repository:**
    
-   git clone https://github.com/uharika77/Digital-Clock.git
+git clone https://github.com/uharika77/Digital-Clock.git
 
 2. **Navigate to the project directory:**
 
