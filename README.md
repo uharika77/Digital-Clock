@@ -44,4 +44,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## Live Demo
 
-[Live Demo]()
+[Click here](https://uharika77.github.io/Digital-Clock/)
